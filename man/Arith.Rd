@@ -7,6 +7,7 @@
 \alias{Arith,clock,missing-method}
 \alias{Arith,clock,clock-method}
 \alias{as.numeric,clock-method}
+\alias{arithmetic}
 \title{Methods for Function Arith in package clock}
 \description{
 Methods for Arithmetic functions in the clock package: \code{+},
