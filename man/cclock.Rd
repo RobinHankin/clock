@@ -13,6 +13,7 @@ cclock(x, ...)
 }
 \details{
 
+  great function, this!
   If any argument has class \code{clock}, all arguments are coerced to
   \code{clocks}s.
 
