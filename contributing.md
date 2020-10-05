@@ -1,31 +1,50 @@
-Contributing to the clock package
-================
+# Contributing to Transcriptase
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+I would love your input! I want to make contributing to this project
+as easy and transparent as possible, whether it's:
 
-<!-- badges: start -->
+- Reporting a bug
+- Discussing the current state of the code
+- Submitting a fix
+- Proposing new features
+- Reporting positive feedback and encouragement from students of GR
+- Reporting negative feedback or suggestions for new functionality
 
-[![Build
-Status](https://travis-ci.org/RobinHankin/freegroup.svg?branch=master)](https://travis-ci.org/RobinHankin/freegroup)
-[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/freegroup)](https://cran.r-project.org/package=freegroup)
-[![Rdoc](http://www.rdocumentation.org/badges/version/freegroup)](http://www.rdocumentation.org/packages/freegroup)
-[![Codecov test
-coverage](https://codecov.io/gh/RobinHankin/freegroup/branch/master/graph/badge.svg)](https://codecov.io/gh/RobinHankin/freegroup/branch/master)
-<!-- badges: end -->
 
-# Overview
+##  Develop with Github
 
-The `freegroup` package provides functionality for working with the free
-group in R. A detailed vignette is provided in the package. Informally,
-the *free group* is the set ![X](https://latex.codecogs.com/png.latex?X
-"X") of *words* that are objects like
-![W=c^{-4}bb^2aa^{-1}ca](https://latex.codecogs.com/png.latex?W%3Dc%5E%7B-4%7Dbb%5E2aa%5E%7B-1%7Dca
-"W=c^{-4}bb^2aa^{-1}ca"), with a group operation of string
-juxtaposition. Usually one works only with words that are in \`\`reduced
-form’’, which has successive powers of the same symbol combined, so
-![W](https://latex.codecogs.com/png.latex?W "W") would be equal to
-![c^{-4}b^3ca](https://latex.codecogs.com/png.latex?c%5E%7B-4%7Db%5E3ca
-"c^{-4}b^3ca"); see how ![b](https://latex.codecogs.com/png.latex?b "b")
-appears to the third power and the
-![a](https://latex.codecogs.com/png.latex?a "a") term in the middle has
-vanished.
+I use github to host code, to track issues and feature requests, as
+well as accept pull requests.
+
+## I use [Github Flow](https://guides.github.com/introduction/flow/index.html), so all code changes happen through pull requests
+
+Pull requests are the best way to propose changes to the codebase (we
+use [Github
+Flow](https://guides.github.com/introduction/flow/index.html)).
+Please note that I am not 100% confident about PR etiquette, as I am
+still learning github norms.  But, I actively welcome your pull
+requests:
+
+1. Fork the repo and create your branch from `master`
+2. If you've added code that should be tested, add tests
+3. Document the added code as fully as possible
+3. Ensure the test suite passes `R CMD check`
+4. Issue that pull request!
+
+## Any contributions you make will be under the GPL Software License
+
+In short, when you submit code changes, your submissions are
+understood to be under the same that covers the project.  Feel free to
+contact the maintainers if that's a concern.
+
+## Report issues using Github's [issues](https://github.com/RobinHankin/clock/issues)
+
+I am using GitHub issues to track public bugs.  Report a bug by [opening a new issue](); it's that easy!
+
+## Use a Consistent Coding Style
+
+Doesn't really matter what style that is, so long as it's internally consistent
+
+
+## References
+This document was adapted from the open-source contribution guidelines for [Facebook's Draft](https://github.com/facebook/draft-js/blob/a9316a723f9e918afde44dea68b5f9f39b7d9b00/CONTRIBUTING.md)
