@@ -1,4 +1,4 @@
-# Contributing to Transcriptase
+# Contributing to the clock package
 
 I would love your input! I want to make contributing to this project
 as easy and transparent as possible, whether it's:
@@ -7,9 +7,9 @@ as easy and transparent as possible, whether it's:
 - Discussing the current state of the code
 - Submitting a fix
 - Proposing new features
+- Implementing new features
 - Reporting positive feedback and encouragement from students of GR
 - Reporting negative feedback or suggestions for new functionality
-
 
 ##  Develop with Github
 
@@ -47,4 +47,5 @@ Doesn't really matter what style that is, so long as it's internally consistent
 
 
 ## References
-This document was adapted from the open-source contribution guidelines for [Facebook's Draft](https://github.com/facebook/draft-js/blob/a9316a723f9e918afde44dea68b5f9f39b7d9b00/CONTRIBUTING.md)
+
+This document was adapted from `briandk\CONTRIBUTING.md`.  Thanks, Brian!
