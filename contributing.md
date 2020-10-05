@@ -11,6 +11,8 @@ as easy and transparent as possible, whether it's:
 - Reporting positive feedback and encouragement from students of GR
 - Reporting negative feedback or suggestions for new functionality
 
+I try to [assume good faith](https://en.wikipedia.org/wiki/Wikipedia:Assume_good_faith).
+
 ##  Develop with Github
 
 I use github to host code, to track issues and feature requests, as
@@ -43,7 +45,7 @@ I am using GitHub issues to track public bugs.  Report a bug by [opening a new i
 
 ## Use a Consistent Coding Style
 
-Doesn't really matter what style that is, so long as it's internally consistent
+Doesn't really matter what style that is, so long as it's internally consistent.
 
 
 ## References
