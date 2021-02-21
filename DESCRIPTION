@@ -7,7 +7,7 @@ Maintainer: Robin K. S. Hankin <hankin.robin@gmail.com>
 Depends: R (>= 2.13.0), methods
 Imports: numbers
 Description: Modular arithmetic in R.  Uses efficient routines for
-	     working consistently in a particular modulo base.
+	     working consistently in a particular base.
 License: GPL
 Repository: CRAN
 URL: https://github.com/RobinHankin/clock.git
