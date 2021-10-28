@@ -1,6 +1,6 @@
 \name{cclock}
 \alias{cclock}
-\title{Combine clock  vectors}
+\title{Combine clock vectors}
 \description{
   Combine  clock vectors through concatenation
 }
