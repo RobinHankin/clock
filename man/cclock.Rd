@@ -2,7 +2,7 @@
 \alias{cclock}
 \title{Combine clock vectors}
 \description{
-  Combine  clock vectors through concatenation
+  Combine clock vectors through concatenation
 }
 \usage{
 cclock(x, ...)
