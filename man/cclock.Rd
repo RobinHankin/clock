@@ -8,7 +8,7 @@
 cclock(x, ...)
 }
 \arguments{
-  \item{x}{Object of class \code{clock}; an integer vector}
+  \item{x}{Object of  class \code{clock}; an integer vector}
   \item{\dots}{Other arguments coerced to clock objects}
 }
 \details{
